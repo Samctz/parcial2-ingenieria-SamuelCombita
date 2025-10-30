@@ -1,0 +1,18 @@
+Propuesta sobre el filtro de busqueda
+
+Implementación sugerida:
+
+1. Componentes para la interfaz:
+   - Una caja de secciones con la lista de categorías
+   - Botón con el nombre de 'Aplicar filtro'
+   - Contador de productos filtrados
+
+2. Funcionalidad:
+   - JavaScript para filtrar realizar el filtrado de la tabla
+   - Mostrar solamente la categoria filtrada
+   - Opción 'Limpiar' para resetear filtro
+
+3. Tecnologias:
+   - HTML: <select> para la caja de secciones
+   - CSS: Estilos para el estado de la categorias si estan activa/inactiva
+   - JavaScript: Filtrado de la tabla
