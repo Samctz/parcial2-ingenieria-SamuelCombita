@@ -1,0 +1,20 @@
+1ra historia: Como comprador quiero filtrar productos por categoría para encontrar rápidamente lo que necesito.
+   Criterios de Aceptacion: 
+   - Mostrar lista de categorías disponibles
+   - Filtrar productos al seleccionar categoría
+   - Mostrar contador de productos por categoría
+   Prioridad: Alta
+
+2da historia: Como productor quiero agregar mis productos al catálogo para vender mis productos locales.
+   Criterios de Aceptacion:
+   - Formulario de registro de productos
+   - Campos: nombre, precio, categoría, descripción
+   - Validación de campos obligatorios
+   Prioridad: Alta
+
+3ra historia: Como comprador quiero buscar productos por nombre para encontrar productos específicos.
+   Criterios de Aceptacion:
+   - Campo de búsqueda en header
+   - Búsqueda en tiempo real
+   - Mostrar "no results" cuando no hay coincidencias
+   Prioridad: Media

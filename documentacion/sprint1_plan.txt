@@ -1,0 +1,14 @@
+Historias Seleccionadas:
+
+1ra historia: Como comprador, quiero poder visualizar una lista de productos disponibles por su categoría, para poder elegir fácilmente qué comprar.
+
+2da historia: Como comprador, quiero buscar productos por nombre, precio para encontrar productos específicos
+
+Tareas Especificas:
+- Diseñar estructura HTML de la tabla de productos
+- Implementar CSS básico para estilización
+- Crear datos de ejemplo (productos, precios, categorías)
+- Testing de funcionalidad básica
+- Revisión de código
+
+Duracion Estimada: 7 días

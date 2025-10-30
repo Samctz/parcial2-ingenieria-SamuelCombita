@@ -1,0 +1,7 @@
+Rol Cumplido: Developer
+
+Como desarrollador en el proyecto EcoMarket, mi responsabilidad principal fue implementar las funcionalidades definidas en las historias de usuario asignadas 
+para el Sprint 1.
+
+SCRUM nos ayudo en la planificacion clara del proyecto, tambien con una comunicacion constante gracias a las reuniones diarias para asi sincronizarnos
+y asi poder mejorar con criticas constructivas dadas en estas mismas.
