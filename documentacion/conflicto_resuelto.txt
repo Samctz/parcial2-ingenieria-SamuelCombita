@@ -1,0 +1,15 @@
+Resolucion de conflicto 
+
+Para resolver el conflicto se detecta que en la rama main especificamente en src/index.html se encuentra una diferencia 
+
+En la rama main esta
+<h1> Lista de productos frescos </h1>
+
+y en la rama hotfix-actualizacion
+<h1>Productos disponibles - Actualizados</h1>
+
+Entonces para la solucion se decide combinar ambos cambios y aplicarlos en ambas ramas
+
+<h1>Productos Frescos disponibles - Actualizados</h1>
+
+Se actualizan ambas ramas y se hace push para quitar el error.
